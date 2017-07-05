@@ -7,7 +7,7 @@
 library(shiny)
 
 shinyUI(
-  navbarPage("Catalyst: Treatment Risk Modeling",
+  navbarPage("Modeling Treatment Benefit/Risk from RCT Data",
     
     tabPanel("1. Upload data",
         fluidPage(fluidRow(
