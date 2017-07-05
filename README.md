@@ -9,6 +9,9 @@ The code:
 2. Allows the user to identify the outcome, treatment, and covariates, as named in the data headers
 3. Fits a logistic model with elastic-net regularization, allows the user to enter values for each covariate, and displays the absolute risk reduction for the patient given the supplied values
 
+The implementation can be used by users with clinical trial data, at:
+https://sanjaybasu.shinyapps.io/rctmodeling/
+
 Thanks to Jonas Kemp, jbkemp7@stanford.edu
 
 Sanjay Basu
